@@ -1,0 +1,1 @@
+-- Selezionare tutti i corsi in cui insegna Fulvio Amato (id=44)

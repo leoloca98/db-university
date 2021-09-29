@@ -1,0 +1,2 @@
+-- BONUS: Selezionare per ogni studente quanti tentativi d’esame ha sostenuto per
+-- superare ciascuno dei suoi esami

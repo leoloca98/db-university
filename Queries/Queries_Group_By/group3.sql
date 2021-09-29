@@ -1,0 +1,1 @@
+-- Calcolare la media dei voti di ogni appello d'esame

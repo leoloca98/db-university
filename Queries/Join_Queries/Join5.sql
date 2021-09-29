@@ -1,0 +1,1 @@
+-- Selezionare tutti i corsi di laurea con i relativi corsi e insegnanti
